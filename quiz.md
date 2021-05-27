@@ -516,7 +516,7 @@ Ans: C
         B. Only when the branch is created.
         C. Only when the branch is ready to be merged.
 
-        Ans: A
+        Ans: C
 
 
 6. Which one of these is true about squash merges?
